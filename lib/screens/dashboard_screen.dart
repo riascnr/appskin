@@ -77,7 +77,7 @@ class DashboardScreen extends StatelessWidget {
             // ExpansionTile untuk Skin Type
             ExpansionTile(
               title: Text(
-                'Mana skin type kamu',
+                'Mana skin type kamu ',
                 style: TextStyle(fontSize: 15, fontWeight: FontWeight.bold),
               ),
               children: [
